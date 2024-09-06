@@ -1,0 +1,6 @@
+Programming Fundamentals
+Programming is creating instructions for computers to follow.
+Variables store data values, e.g., int age = 25;.
+Data Types define the kind of data, like integers and strings.
+Control Structures manage program flow with constructs like if statements and loops.
+Functions are reusable blocks of code that perform tasks.
